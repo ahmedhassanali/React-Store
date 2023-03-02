@@ -1,0 +1,26 @@
+
+.slider {
+    background: url('../../assets/header/mardigras_desk.jpg') center no-repeat;
+    background-size: cover;
+    text-align: left;
+    padding: 0;
+    height: auto;
+    width: 100%;
+}
+
+.slider h1 {
+    margin: 20px;
+    margin-right: 0px;
+    font-family: 'Tajawal', sans-serif;
+    font-weight: bold; 
+    width: auto;
+    display: inline-block;
+}
+
+.slider p{
+    font-family: 'Tajawal', sans-serif;
+    width: auto;
+    margin: 20px;
+    padding-top: 20px;
+    margin-left: 0px;
+}

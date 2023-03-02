@@ -1,0 +1,17 @@
+
+.logo {
+    height: auto;
+    width: 100%;
+}
+
+.icon  {
+    width: 30px;
+    height: 30px;
+    margin: 0px 5px;
+    display: inline-block;
+}
+
+.form {
+    margin: 0px 5px;
+}
+

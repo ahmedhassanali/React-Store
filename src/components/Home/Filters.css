@@ -1,0 +1,28 @@
+
+.filters {
+    text-align: left;
+    /* margin: 15px 0px; */
+}
+
+.filter {
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+ 
+.filter  a{
+    font-family: 'Tajawal', sans-serif;
+    font-size: large;
+    padding: 15px;
+}
+
+.dropdown button{
+    font-size: large;
+    font-family: 'Tajawal', sans-serif;
+    padding: 15px;
+}
+
+.set-default{
+    text-align: right;
+    margin: 0px 40px;
+}

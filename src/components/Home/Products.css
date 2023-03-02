@@ -1,0 +1,75 @@
+
+
+.card img {
+    height: 70%;
+    width: 70%;
+    margin: auto;  
+    text-align: center;  
+    padding: 20px;
+}
+
+.card {
+    margin: 15px 0px;
+    width: 100%;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.card-title{
+    font-weight: bold;
+    text-transform: uppercase;
+    display: inline-block;
+    font-family: 'Tajawal', sans-serif;
+    font-size: medium;
+}
+
+.card-text {
+    display: inline-block;
+    font-family: 'Tajawal', sans-serif;
+    font-size: medium;
+    margin: 0px;
+}
+
+.card-img-top {
+    text-align: center;
+}
+
+.card-badge {
+    display: inline-block;
+    font-family: 'Tajawal', sans-serif;
+    font-size: small;
+    margin: 0px 10px 0px 0px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10%;
+    border-color: darkgrey;
+    padding: 0px 3px;
+}
+
+.card-body {
+    text-align: left;
+}
+
+.card-btn{
+    text-align: right;
+}
+
+.card-btn a{
+    font-family: 'Tajawal', sans-serif;
+    font-weight: bold;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10%;
+    border-color: darkgrey;
+    margin: 0 10px;
+}
+
+.card-btn p{
+    color: #009655;
+    font-family: 'Tajawal', sans-serif;
+    font-weight: bold;
+    margin: 5px 0px;
+}
+
+.products {
+    margin: 20px;
+}

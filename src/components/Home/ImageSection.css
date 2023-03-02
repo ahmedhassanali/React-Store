@@ -1,0 +1,11 @@
+
+.image-section {
+    margin: 15px 0px;
+    padding: 0;
+    width: 100%;
+    overflow: auto;
+}
+
+.image-section img{
+    width: 100%;
+}

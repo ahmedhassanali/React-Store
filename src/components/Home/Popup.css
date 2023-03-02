@@ -1,0 +1,14 @@
+
+.image-button{
+    width: 100px;
+    border: none;
+    background-color: white;
+    margin: 10px;
+}
+
+.image-button img{
+    height: 100%;
+    width: 100%;
+    text-align: center;  
+   
+}
